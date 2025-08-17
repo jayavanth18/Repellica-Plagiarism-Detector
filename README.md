@@ -110,9 +110,12 @@ Open your browser at **[http://localhost:8501](http://localhost:8501)** and star
 ## 📊 Example Output
 
 * **Upload**: Two PDF documents.
+<img width="2137" height="419" alt="image" src="https://github.com/user-attachments/assets/d722dda1-a224-423c-a6a7-ee6a7bffb7df" />
+
 * **Extraction**: Text is extracted and preprocessed.
+<img width="2138" height="471" alt="image" src="https://github.com/user-attachments/assets/e1a4e7d3-a5db-463a-87dc-50e1c7157c31" />
+
 * **Prediction**:
-  
 <img width="2154" height="519" alt="image" src="https://github.com/user-attachments/assets/f28e77b3-89f1-49a2-aeb9-88039d830029" />
 
 ---
